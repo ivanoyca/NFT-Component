@@ -22,6 +22,7 @@ body {
   flex-direction: column;
   border-radius: 12px;
   padding: 20px 20px;
+  box-shadow: 0px 30px 40px 35px rgba(12, 24, 41, 1);
 }
 .nft-img {
   height: 16rem;
